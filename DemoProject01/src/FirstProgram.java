@@ -6,7 +6,6 @@ public class FirstProgram {
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
 		System.out.println("Hello Git1234");
-		System.out.println("Hello Git");
 		
 
 	}
